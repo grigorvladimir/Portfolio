@@ -4,7 +4,7 @@ Thare is not much that i can show hear, all my projects in past years were
 proproetary for Kamaz motor kompany, so i ended up adding one project that  
 I did in university and one more that i did as traning/test for my work project
 
-### ([DAC drivers for gd32](https://github.com/grigorvladimir/Portfolio/tree/main/DAC%20drivers%20for%20gd32))   
+### [DAC drivers for gd32](https://github.com/grigorvladimir/Portfolio/tree/main/DAC%20drivers%20for%20gd32)  
 Is a basic Digital to analog convertor functions (initializations, deinitialization, set).  
 GD32 is a chinese copy of stm32 microcontrollers (russian companys dont have excess to stm).  
 Thats not much, but it is well structured and can give an idea of my approach to wrighting C code.  
