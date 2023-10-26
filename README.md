@@ -16,6 +16,8 @@ I developed mycroprocesson sistem and wrote software for it using assembly langu
 Kp-580 was used which is a soviet copy of intel 82xx, and uses x86 instruction list.  
 I tryed my best at translating this project for you.
 
+
+
 Best regards,
 
 Vladimir Grigorian  
