@@ -10,7 +10,7 @@ writen for GD32, which is a chinese copy of stm32 microcontrollers (russian comp
 Although it may not be extensive, this code is well-structured and can provide insight into my approach  
 to writing C code. Most of the functions can be found here: DAC drivers for gd32/src/dac/dac.c
 
-### Traction Control System  
+### [Traction Control System](https://github.com/grigorvladimir/Portfolio/blob/main/Traction%20control%20system.pdf)  
 This an elective project for computer sience course.   
 I undertook the development of a microprocessor system and authored software for it using assembly language.  
 Microprocessor used is KP-580, a Soviet counterpart to the Intel 82xx, employing the x86 instruction set.  
