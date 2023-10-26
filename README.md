@@ -17,7 +17,6 @@ Kp-580 was used which is a soviet copy of intel 82xx, and uses x86 instruction l
 I tryed my best at translating this project for you.
 
 
-
 Best regards,
 
 Vladimir Grigorian  
