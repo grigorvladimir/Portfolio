@@ -6,7 +6,7 @@ I did in university and one more that i did as traning/test for my work project
 
 ### DAC drivers for gd32  
 Is a basic Digital to analog convertor functions (initializations, deinitialization, set).  
-GD32 is a chinese copy of stm32 microcontrollers (russian companys dont have excess to stm)
+GD32 is a chinese copy of stm32 microcontrollers (russian companys dont have excess to stm)  
 Thats not much, but it is well structured and can give an idea of  
 my approach to wrighting C code.  
 Most function are here: DAC drivers for gd32/src/dac/dac.c
